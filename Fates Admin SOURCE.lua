@@ -711,7 +711,7 @@ PluginLibrary.GetMagnitude = GetMagnitude
 
 local Settings = {
     Prefix = "!",
-    CommandBarPrefix = "Semicolon"
+    CommandBarPrefix = "="
 }
 local PluginSettings = {
     PluginsEnabled = true,
